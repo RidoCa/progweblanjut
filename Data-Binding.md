@@ -262,3 +262,8 @@ export class ServersComponent implements OnInit {
 }
 ```
 Lihat apa yang terjadi pada aplikasi Angular!
+### TUGAS
+1. Buatlah sebuah inputan untuk ```username``` dengan menggunakan two-way binding (15 poin)
+1. Tampilkan ```username``` yang diketikkan oleh user pada element ```<p>``` dengan menggunakan string interpolation (15 poin)
+1. Buatlah sebuah tombol yang HANYA BISA DI TEKAN ATAU KLIK KETIKA INPUT TIDAK KOSONG (40 poin)
+1. Ketika tombol pada point 2 ditekan, maka input text aja di reset ulang kedalam keadaan kosong (30 poin)
