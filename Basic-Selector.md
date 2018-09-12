@@ -96,3 +96,9 @@ Kemudian pada ```app.component.ts``` berikan value ```app-server``` pada propert
   </div>
 </div>
 ```
+## TUGAS
+1. Ubah variabel ```serverName``` pada ```server.component.ts``` menjadi ```serverID``` dengan tipe data **number**
+1. Modifikasi template component server sehingga menampilkan ```Server with ID {{ serverID }} is {{ serverStatus }}```
+1. Buatlah component baru dengan menggunakan Angular CLI dengan nama **servers**
+1. Tampilkan 2 component **server** didalam component **servers** menggunakan **tag element selector**
+1. Pada ```app.component.html``` tampilkan selector dari component **servers** (hint: sebelumnya adalah selector dari server)
