@@ -9,4 +9,4 @@ Data binding dapat diartikan sebagai cara berkomunikasi antara bussiness logic p
 ### String Interpolation
 String interpolation digunakan untuk menampilkan data dari file TS (business logic) ke template (HTML) dengan menggunakan syntanx ```{{ data }}```. Seluruh data yang ditampilkan oleh string interpolation didalam template akan dirubah menjadi tipe data string.
 
-Perhatikan kode ```server.component.ts``` dibawah ini
+Perhatikan kode ```server.component.html``` dibawah ini
