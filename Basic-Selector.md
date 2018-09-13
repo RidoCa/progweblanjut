@@ -82,7 +82,7 @@ export class ServerComponent {
     serverStatus = 'offline';
 }
 ```
-Kemudian pada ```app.component.ts``` berikan value ```app-server``` pada property class.
+Kemudian pada ```app.component.html``` berikan value ```app-server``` pada property class.
 ```html
 <div class="container">
   <div class="row">
