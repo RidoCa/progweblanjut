@@ -263,7 +263,7 @@ export class ServersComponent implements OnInit {
 ```
 Lihat apa yang terjadi pada aplikasi Angular!
 ### TUGAS
-1. Buat sebuah component dengan mana tugas
+1. Buat sebuah component dengan nama **tugas**
 1. Tampilkan component tugas pada template app (silahkan ```app-servers``` dijakdikan komenter)
 1. Buatlah sebuah inputan untuk ```username``` dengan menggunakan two-way binding (15 poin)
 1. Tampilkan ```username``` yang diketikkan oleh user pada element ```<p>``` dengan menggunakan string interpolation (15 poin)
