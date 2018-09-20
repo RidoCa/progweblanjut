@@ -7,7 +7,7 @@ Modul ini merupakan modul lanjutan dari pembelajaran pada Minggu ke-3. Untuk itu
 1. Sudah mengimplementasi data binding yang dipelajari sebelumnya.
 
 #### Tambahan
-**Jika dalam contoh kode terdapat sebuah komentar / comment, maka tidak wajib untuk ditulus. Commented code hanya sebagai bahan referensi dari apa yang telah dikerjakan sebelumnya.**
+**Jika dalam contoh kode terdapat sebuah komentar / comment, maka tidak wajib untuk ditulis. Commented code hanya sebagai bahan referensi dari apa yang telah dikerjakan sebelumnya.**
 
 ### Conditional output dengan ngIf
 Untuk membuat sebuah kondisi dalam Angular, kita dapat memanfaatkan built-in directive **ngIf**. Perhatikan langkah langkah berikut untuk mengetahui cara kerja **ngIf**
