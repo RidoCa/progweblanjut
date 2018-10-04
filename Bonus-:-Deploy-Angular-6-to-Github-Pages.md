@@ -13,7 +13,7 @@ Buat repository baru untuk project Angular
 1. Install package angular github pages dengan perintah ```npm i -g angular-cli-ghpages```
 2. Build ke remote repo dengan perintah ```ng build --prod --base-href https://[username_github].github.io/[nama_repository]/```. Sesuaikan username github dan nama repository.
 3. (Optional) Jika gagal, build kembali dengan perintah ng build --prod --base-href=/[nama_repository]/
-4. Deploy dengan perintah ```ngh --dir=dist/[nama_repository]```
+4. Deploy dengan perintah ```ngh --dir=dist/[nama_project]```
 
 ### Hasil
 Contoh hasil deploy Angular ke Github Pages dapat dilihat di [https://progwebpolinema.github.io/kuis/](https://progwebpolinema.github.io/kuis/)
